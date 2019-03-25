@@ -1,0 +1,25 @@
+{  
+   "playlist":[  
+      {  
+         "id":1,
+         "artist":"artistName",
+         "track":"trackName",
+         "listned":false,
+         "favourite":true
+      },
+      {  
+         "id":1,
+         "artist":"artistName",
+         "track":"trackName",
+         "listned":false,
+         "favourite":true
+      },
+      {  
+         "id":1,
+         "artist":"artistName",
+         "track":"trackName",
+         "listned":false,
+         "favourite":true
+      }
+   ]
+}
