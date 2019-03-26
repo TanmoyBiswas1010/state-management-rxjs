@@ -16,9 +16,5 @@ export class AppComponent implements OnInit {
   todos$ = this.store.select('playlist');
 
   ngOnInit(): void {
-
-    // this.songService.getSongs().subscribe(data => {
-    //   console.log(data)
-    // });
   }
 }

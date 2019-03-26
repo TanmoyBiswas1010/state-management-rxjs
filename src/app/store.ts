@@ -17,11 +17,10 @@ export class Store {
     }
 
     set(name: string, state: any) {
-        debugger;
+        
         this.subject.next({
             ...this.value, [name]: state
           });
-          console.log(this.value);
           
     }
 

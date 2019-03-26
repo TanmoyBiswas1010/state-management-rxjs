@@ -2,24 +2,64 @@
    "playlist":[  
       {  
          "id":1,
-         "artist":"artistName",
-         "track":"trackName",
-         "listned":false,
+         "artist":"Clean Bandit",
+         "track":"Mama",
+         "listened":false,
          "favourite":true
       },
       {  
-         "id":1,
-         "artist":"artistName",
-         "track":"trackName",
-         "listned":false,
+         "id":2,
+         "artist":"Martin Garrix",
+         "track":"Forbidden Voices",
+         "listened":true,
+         "favourite":false
+      },
+      {  
+         "id":3,
+         "artist":"Ava Max",
+         "track":"Sweet byt psycho",
+         "listened":true,
+         "favourite":false
+      },
+      {  
+         "id":4,
+         "artist":"Post Malone",
+         "track":"Sunflower",
+         "listened":false,
          "favourite":true
       },
       {  
-         "id":1,
-         "artist":"artistName",
-         "track":"trackName",
-         "listned":false,
+         "id":5,
+         "artist":"Lady Gaga",
+         "track":"Shallow",
+         "listened":false,
          "favourite":true
+      },
+      {  
+         "id":6,
+         "artist":"Rag n Bone Man",
+         "track":"I am only human",
+         "listened":true,
+         "favourite":false
+      },
+      {  
+         "id":7,
+         "artist":"Martin Garrix",
+         "track":"The Only Way is Up",
+         "listened":false,
+         "favourite":true
+      }, {  
+         "id":8,
+         "artist":"Hiroyuki Sawano",
+         "track":"aLIEz Aldnoah Zero",
+         "listened":true,
+         "favourite":false
+      }, {  
+         "id":9,
+         "artist":"Re Zero",
+         "track":"Isekai Seikatsu",
+         "listened":true,
+         "favourite":false
       }
    ]
 }
